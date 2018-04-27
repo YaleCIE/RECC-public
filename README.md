@@ -1,6 +1,6 @@
 #  Resource Efficiency &amp; Climate Change (RECC)
 
-Welcome to the RECC website. This page will be the hub for any project outlets. For more details, please refer to the [Yale CIE  project website](https://cie.research.yale.edu/research/current-projects).
+Welcome to the RECC website. This page will be the hub for any project outlets. For more details, please refer to the [Yale CIE  project website](https://cie.research.yale.edu/g7-unep-resource-efficiency-and-climate-change-recc).
 
 ## Available resources
 
